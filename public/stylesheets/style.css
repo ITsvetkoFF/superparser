@@ -1,0 +1,13 @@
+body {
+  margin: 10px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+iframe.priceselector {
+  width: 100%;
+  height: 800px;
+}
